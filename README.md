@@ -1,6 +1,8 @@
 # Infrared Gun 
 A non-contact temperature meter made by [@souptik-samanta](https://github.com/souptik-samanta/)
 
+<img width="1280" height="2071" alt="image" src="https://github.com/user-attachments/assets/36467de7-8c19-4a35-be48-6e0295faaddd" />
+
 ![Device photo](./img/img2/image-6.png)
 
 ---
@@ -81,37 +83,17 @@ battries from burger 5$$
 
 ---
 
-## 🎞️ Disintregreted View Animation(Wait for sometime)
+## Disintregreted View Animation(Wait for sometime)
 
 
 ![ disintregreted view](./img/img2/animation%20v2.gif) 
 
-## JLCPCB RENDER
-
-###
-
-![alt text](<./img/img2/sm_red_bottom (1).png>)
-
-###
+## It working
+<img width="477" height="914" alt="image" src="https://github.com/user-attachments/assets/84af8892-a281-4b80-ad78-598b016457dc" />
+<img width="1354" height="697" alt="image" src="https://github.com/user-attachments/assets/79157673-6d91-457a-9b45-b75cf99631cf" />
 
 
-###
 
-![alt text](./img/img2/sm_red_top.png)
-
-###
-
-
-###
-
-![alt text](./img/img2/sm_white_top.png)
-
-###
-
-
-###
-
-![alt text](./img/img2/sm_white_bottom.png)
 
 ###
 ---
